@@ -54,9 +54,8 @@
 </p>
 
   ```
-git status
-git add
-git commit
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/65593ac3-f87a-420f-8d5f-fca06c64c63f" />
+
 ```
 <p align="center" >
   <ins> <b> Step II </b> </ins>
