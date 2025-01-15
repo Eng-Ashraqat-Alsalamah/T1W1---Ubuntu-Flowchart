@@ -56,7 +56,7 @@
 ```
 ash@Ash:~$ ls
 ```
-<img width="934" alt="image" src="https://github.com/user-attachments/assets/0b2a65ba-f184-49dc-bc0a-88d26bf34c35" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/0b2a65ba-f184-49dc-bc0a-88d26bf34c35" />
 
 
 <p align="center" >
@@ -68,7 +68,7 @@ ash@Ash:~$ cd Desktop
 ash@Ash:~/Desktop$ touch testPermission.py
 ash@Ash:~/Desktop$ ls
 ```
-<img width="934" alt="image" src="https://github.com/user-attachments/assets/b785c6fa-f4aa-4b2e-8008-44b43145f5cb" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/b785c6fa-f4aa-4b2e-8008-44b43145f5cb" />
 
 
 <p align="center" >
@@ -78,7 +78,7 @@ ash@Ash:~/Desktop$ ls
 ```
 ash@Ash:~/Desktop$ ls -l
 ```
-<img width="934" alt="image" src="https://github.com/user-attachments/assets/27a9f8e5-e64d-4994-962f-3268741fc31c" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/27a9f8e5-e64d-4994-962f-3268741fc31c" />
 
 <p align="center" >
   <ins> <b> Step IV </b> </ins>
@@ -87,7 +87,7 @@ ash@Ash:~/Desktop$ ls -l
 ```
 ash@Ash:~/Desktop$ chmod 775 testPermission.py
 ```
-<img width="934" alt="image" src="https://github.com/user-attachments/assets/e2b22050-487b-4d89-9248-f6d476c5ba05" />
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/e2b22050-487b-4d89-9248-f6d476c5ba05" />
 
 
 
