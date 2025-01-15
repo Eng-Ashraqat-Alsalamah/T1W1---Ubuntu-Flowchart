@@ -10,20 +10,20 @@
 ## **Software Used**
 | Component | Function | Picture |
 | :---:        |     :---     |          :---: |
-| Virtual Box   | *_VirtualBox_* is a virtualization software that allows you to run multiple operating systems (called guests) on a single physical machine (called the host) without the need for separate hardware    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" width="200" height="150"/>    |
-| Ubuntu    | *_Ubuntu_* is a Linux-based operating system that is user-friendly, open-source, and widely used for Robotics due to its compact memory usage . It is derived from Debian and provides a robust, stable, and secure platform.       | <img src="https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/ubuntu-logo.png" width="350" height="75" />     |
+| ***Virtual Box***   | ***VirtualBox*** is a virtualization software that allows you to run multiple operating systems (called guests) on a single physical machine (called the host) without the need for separate hardware    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" width="200" height="150"/>    |
+| ***Ubuntu***    | ***Ubuntu*** is a Linux-based operating system that is user-friendly, open-source, and widely used for Robotics due to its compact memory usage . It is derived from Debian and provides a robust, stable, and secure platform.       | <img src="https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/ubuntu-logo.png" width="350" height="75" />     |
 
 ## **Terminology**
 | Component | Function |
 | :---:        |     :---      | 
-| Shell   | The interface between the user and the operating system. It interprets and executes user commands     | 
-| Kernel    | The kernel is the core component of an operating system that serves as a bridge between software and hardware. It is responsible for managing system resources, such as CPU, memory, and input/output devices, and ensuring that software applications can run effectively and securely.       | 
-| Terminal   | - Displays a command-line interface (CLI) where you can type commands. <br/> - Acts as a bridge between the user and the shell or command interpreter.     | 
-| Prompt    | Desc       | 
-| Command Line   | Desc     | 
-| Bash    | Desc       | 
-| PCI   | Desc     | 
-| PWD    | Desc       | 
+| ***Shell***   | The interface between the user and the operating system. It interprets and executes user commands     | 
+| ***Kernel***    | The kernel is the core component of an operating system that serves as a bridge between software and hardware. It is responsible for managing system resources, such as CPU, memory, and input/output devices, and ensuring that software applications can run effectively and securely.       | 
+| ***Terminal***   | + Displays a command-line interface (CLI) where you can type commands. <br/> + Acts as a bridge between the user and the shell or command interpreter.     | 
+| _**Prompt**_    | Desc       | 
+| _**Command Line**_   | Desc     | 
+| _**Bash**_    | Desc       | 
+| _**PCI**_   | Desc     | 
+| _**PWD**_    | Desc       | 
 
 > [!TIP]
 > Understand the terminology table to differentiate and distinquish those terms and its role.
