@@ -29,14 +29,16 @@
 > Understand the terminology table to differentiate and distinquish those terms and its role.
 
 
-## **Methodology**
-### Flowchart Diagram
+
+## **Flowchart Diagram**
+> [!NOTE]
+> The Linux Scoring System for permissions are: r = 4, w = 2, and x = 1.
 <p align="center" >
  <img width="689" alt="image" src="https://github.com/user-attachments/assets/dedd94a5-72da-493e-9f17-a9cc0aa16448" />
-
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/da47f635-5d55-4c9c-974d-e5392041793a" />
 </p>
 
-
+## **Methodology**
 ### Code
 <p align="center" >
   <ins> <b> Step I </b> </ins>
@@ -65,8 +67,7 @@ git commit
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+
 
 ## **References**
 Here is a simple footnote[^1].
