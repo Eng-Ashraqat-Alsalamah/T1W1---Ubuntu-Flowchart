@@ -3,15 +3,22 @@
 
 <h1 align="center"; color="blue">Ubuntu Flowchart</h1>
 
+<br/>
+
+<br/>
+
 ## **Introduction**
 
 
+<br/>
 
 ## **Software Used**
 | Component | Function | Picture |
 | :---:        |     :---     |          :---: |
 | ***Virtual Box***   | ***VirtualBox*** is a virtualization software that allows you to run multiple operating systems (called guests) on a single physical machine (called the host) without the need for separate hardware    | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" width="200" height="150"/>    |
 | ***Ubuntu***    | ***Ubuntu*** is a Linux-based operating system that is user-friendly, open-source, and widely used for Robotics due to its compact memory usage . It is derived from Debian and provides a robust, stable, and secure platform.       | <img src="https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/ubuntu-logo.png" width="350" height="75" />     |
+
+<br/>
 
 ## **Terminology**
 | Component | Function |
@@ -28,7 +35,7 @@
 > [!TIP]
 > Understand the terminology table to differentiate and distinquish those terms and its role.
 
-
+<br/>
 
 ## **Flowchart Diagram**
 > [!NOTE]
@@ -37,6 +44,8 @@
  <img width="689" alt="image" src="https://github.com/user-attachments/assets/dedd94a5-72da-493e-9f17-a9cc0aa16448" />
 <img width="767" alt="image" src="https://github.com/user-attachments/assets/da47f635-5d55-4c9c-974d-e5392041793a" />
 </p>
+
+<br/>
 
 ## **Methodology**
 ### Code
