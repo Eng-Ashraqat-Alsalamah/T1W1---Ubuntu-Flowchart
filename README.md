@@ -14,7 +14,7 @@
 | Ubuntu    | *_Ubuntu_* is a Linux-based operating system that is user-friendly, open-source, and widely used for Robotics due to its compact memory usage . It is derived from Debian and provides a robust, stable, and secure platform.       | <img src="https://linuxiac.b-cdn.net/wp-content/uploads/2022/03/ubuntu-logo.png" width="350" height="75" />     |
 
 ## **Terminology**
-| Component | Function | Picture |
+| Component | Function |
 | :---:        |     :---:      | 
 | Shell   | Desc     | 
 | Kernal    | Desc       | 
