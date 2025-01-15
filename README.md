@@ -50,8 +50,6 @@ This tasks tackles the utilization of familiarizing with the IDE shell enviromen
 
 ## **Methodology**
 
-<br/>
-
 ### Code
 <p align="center" >
   <ins> <b> Step I </b> </ins>
@@ -100,7 +98,7 @@ ash@Ash:~/Desktop$ chmod 775 testPermission.py
 
 <br/>
 
-
+<br/>
 
 ## **Conclusion**
 We developed a clear yet thorough understanding of Linux terminal commands and the methods for navigating and managing system directories and files.
@@ -109,6 +107,7 @@ We developed a clear yet thorough understanding of Linux terminal commands and t
 > [!TIP]
 > The most important thing is to have fun!
 
+<br/>
 
 ## **Appendix**
  + Travis Media. (2023, October 4). Linux file permissions in 5 minutes | MUST know! [Video]. YouTube. https://www.youtube.com/watch?v=LnKoncbQBsM
