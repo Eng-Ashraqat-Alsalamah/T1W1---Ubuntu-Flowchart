@@ -41,8 +41,8 @@
 > [!NOTE]
 > The Linux Scoring System for permissions are: r = 4, w = 2, and x = 1.
 <p align="center" >
- <img width="689" alt="image" src="https://github.com/user-attachments/assets/dedd94a5-72da-493e-9f17-a9cc0aa16448" width="2500" height="500" />
-<img width="767" alt="image" src="https://github.com/user-attachments/assets/da47f635-5d55-4c9c-974d-e5392041793a" width="2500" height="750" />
+ <img width="689" alt="image" src="https://github.com/user-attachments/assets/dedd94a5-72da-493e-9f17-a9cc0aa16448" width="2700" height="700" />
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/da47f635-5d55-4c9c-974d-e5392041793a" width="2700" height="550" />
 </p>
 
 <br/>
