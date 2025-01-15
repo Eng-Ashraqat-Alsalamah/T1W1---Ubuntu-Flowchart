@@ -17,13 +17,13 @@
 | Component | Function |
 | :---:        |     :---      | 
 | ***Shell***   | The interface between the user and the operating system. It interprets and executes user commands     | 
-| ***Kernel***    | The kernel is the core component of an operating system that serves as a bridge between software and hardware. It is responsible for managing system resources, such as CPU, memory, and input/output devices, and ensuring that software applications can run effectively and securely.       | 
+| ***Kernel***    | The core component of an operating system that serves as a bridge between software and hardware. It is responsible for managing system resources, such as CPU, memory, and input/output devices, and ensuring that software applications can run effectively and securely.       | 
 | ***Terminal***   | + Displays a command-line interface (CLI) where you can type commands. <br/> + Acts as a bridge between the user and the shell or command interpreter.     | 
-| _**Prompt**_    | Desc       | 
-| _**Command Line**_   | Desc     | 
-| _**Bash**_    | Desc       | 
-| _**PCI**_   | Desc     | 
-| _**PWD**_    | Desc       | 
+| _**Prompt**_    | Executes batch files (.bat) and other Windows-specific commands.       | 
+| _**Command Line**_   | Text-based interface where users type commands to interact with the operating system.     | 
+| _**Bash**_    | It is a shell language that interprets commands entered by the user and translates them into actions performed by the operating system.       | 
+| _**PCI**_   | _**PCI**_ stands for _**Peripheral Component Interconnect**_. It is a hardware interface standard used to connect peripheral devices to a computer's motherboard. PCI allows these devices to communicate with the CPU and other system components.     | 
+| _**PWD**_    | _**Print Working Directory**_ shows the absolute path directory you are currently in within the file system.      | 
 
 > [!TIP]
 > Understand the terminology table to differentiate and distinquish those terms and its role.
@@ -32,6 +32,7 @@
 ## **Methodology**
 ### Flowchart Diagram
 <p align="center" >
+ <img width="689" alt="image" src="https://github.com/user-attachments/assets/dedd94a5-72da-493e-9f17-a9cc0aa16448" />
 
 </p>
 
