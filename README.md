@@ -8,6 +8,7 @@
 <br/>
 
 ## **Introduction**
+This tasks tackles the utilization of familiarizing with the IDE shell enviroment as well as command prompts, specifically permission command prompts.
 
 
 <br/>
@@ -102,28 +103,15 @@ ash@Ash:~/Desktop$ chmod 775 testPermission.py
 
 
 ## **Conclusion**
+We developed a clear yet thorough understanding of Linux terminal commands and the methods for navigating and managing system directories and files.
+
+
 > [!TIP]
 > The most important thing is to have fun!
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-
-
-## **References**
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: Ref
-
-[^2]: Ref
+## **Appendix**
+ + Travis Media. (2023, October 4). Linux file permissions in 5 minutes | MUST know! [Video]. YouTube. https://www.youtube.com/watch?v=LnKoncbQBsM
 
 
 
