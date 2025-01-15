@@ -53,13 +53,45 @@
   <ins> <b> Step I </b> </ins>
 </p>
 
-  ```
-<img width="343" alt="image" src="https://github.com/user-attachments/assets/65593ac3-f87a-420f-8d5f-fca06c64c63f" />
-
 ```
+ash@Ash:~$ ls
+```
+<img width="334" alt="image" src="https://github.com/user-attachments/assets/0b2a65ba-f184-49dc-bc0a-88d26bf34c35" />
+
+
 <p align="center" >
   <ins> <b> Step II </b> </ins>
 </p>
+
+```
+ash@Ash:~$ cd Desktop
+ash@Ash:~/Desktop$ touch testPermission.py
+ash@Ash:~/Desktop$ ls
+```
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/b785c6fa-f4aa-4b2e-8008-44b43145f5cb" />
+
+
+<p align="center" >
+  <ins> <b> Step III </b> </ins>
+</p>
+
+```
+ash@Ash:~/Desktop$ ls -l
+```
+<img width="326" alt="image" src="https://github.com/user-attachments/assets/27a9f8e5-e64d-4994-962f-3268741fc31c" />
+
+<p align="center" >
+  <ins> <b> Step IV </b> </ins>
+</p>
+
+```
+ash@Ash:~/Desktop$ chmod 775 testPermission.py
+```
+<img width="327" alt="image" src="https://github.com/user-attachments/assets/e2b22050-487b-4d89-9248-f6d476c5ba05" />
+
+
+
+
 
 
 ## **Conclusion**
