@@ -18,8 +18,7 @@
 | :---:        |     :---:      | 
 | Shell   | The interface between the user and the operating system. It interprets and executes user commands     | 
 | Kernel    | The kernel is the core component of an operating system that serves as a bridge between software and hardware. It is responsible for managing system resources, such as CPU, memory, and input/output devices, and ensuring that software applications can run effectively and securely.       | 
-| Terminal   | - Displays a command-line interface (CLI) where you can type commands.
-- Acts as a bridge between the user and the shell or command interpreter.     | 
+| Terminal   | - Displays a command-line interface (CLI) where you can type commands. - Acts as a bridge between the user and the shell or command interpreter.     | 
 | Prompt    | Desc       | 
 | Command Line   | Desc     | 
 | Bash    | Desc       | 
